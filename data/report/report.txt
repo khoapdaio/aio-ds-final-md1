@@ -1,0 +1,772 @@
+============Chấm thi============
+Chọn lớp để chấm điểm: class1
+Mở thành công file class1
+*** Phân tích ***
+============Chấm thi============
+Chọn lớp để chấm điểm: class1
+Mở thành công file class1
+*** Phân tích ***
+============Chấm thi============
+Chọn lớp để chấm điểm: class1
+Mở thành công file class1
+*** Phân tích ***
+Có lỗi xảy ra khi ghi kết quả có mã [N00000001] vào file!
+Có lỗi xảy ra khi ghi kết quả có mã [N00000002] vào file!
+Có lỗi xảy ra khi ghi kết quả có mã [N00000003] vào file!
+Có lỗi xảy ra khi ghi kết quả có mã [N00000004] vào file!
+Có lỗi xảy ra khi ghi kết quả có mã [N00000005] vào file!
+Có lỗi xảy ra khi ghi kết quả có mã [N00000006] vào file!
+Có lỗi xảy ra khi ghi kết quả có mã [N00000007] vào file!
+Có lỗi xảy ra khi ghi kết quả có mã [N00000008] vào file!
+Có lỗi xảy ra khi ghi kết quả có mã [N00000009] vào file!
+Có lỗi xảy ra khi ghi kết quả có mã [N00000010] vào file!
+Có lỗi xảy ra khi ghi kết quả có mã [N00000011] vào file!
+Có lỗi xảy ra khi ghi kết quả có mã [N00000012] vào file!
+Có lỗi xảy ra khi ghi kết quả có mã [N00000013] vào file!
+Có lỗi xảy ra khi ghi kết quả có mã [N00000014] vào file!
+Có lỗi xảy ra khi ghi kết quả có mã [N00000015] vào file!
+Có lỗi xảy ra khi ghi kết quả có mã [N00000016] vào file!
+Có lỗi xảy ra khi ghi kết quả có mã [N00000017] vào file!
+Có lỗi xảy ra khi ghi kết quả có mã [N00000018] vào file!
+Có lỗi xảy ra khi ghi kết quả có mã [N00000019] vào file!
+Có lỗi xảy ra khi ghi kết quả có mã [N00000020] vào file!
+============Chấm thi============
+Chọn lớp để chấm điểm: class1
+Mở thành công file class1
+*** Phân tích ***
+Có lỗi xảy ra khi ghi kết quả có mã [N00000001] vào file!
+Có lỗi xảy ra khi ghi kết quả có mã [N00000002] vào file!
+Có lỗi xảy ra khi ghi kết quả có mã [N00000003] vào file!
+Có lỗi xảy ra khi ghi kết quả có mã [N00000004] vào file!
+Có lỗi xảy ra khi ghi kết quả có mã [N00000005] vào file!
+Có lỗi xảy ra khi ghi kết quả có mã [N00000006] vào file!
+Có lỗi xảy ra khi ghi kết quả có mã [N00000007] vào file!
+Có lỗi xảy ra khi ghi kết quả có mã [N00000008] vào file!
+Có lỗi xảy ra khi ghi kết quả có mã [N00000009] vào file!
+Có lỗi xảy ra khi ghi kết quả có mã [N00000010] vào file!
+Có lỗi xảy ra khi ghi kết quả có mã [N00000011] vào file!
+Có lỗi xảy ra khi ghi kết quả có mã [N00000012] vào file!
+Có lỗi xảy ra khi ghi kết quả có mã [N00000013] vào file!
+Có lỗi xảy ra khi ghi kết quả có mã [N00000014] vào file!
+Có lỗi xảy ra khi ghi kết quả có mã [N00000015] vào file!
+Có lỗi xảy ra khi ghi kết quả có mã [N00000016] vào file!
+Có lỗi xảy ra khi ghi kết quả có mã [N00000017] vào file!
+Có lỗi xảy ra khi ghi kết quả có mã [N00000018] vào file!
+Có lỗi xảy ra khi ghi kết quả có mã [N00000019] vào file!
+Có lỗi xảy ra khi ghi kết quả có mã [N00000020] vào file!
+============Chấm thi============
+Chọn lớp để chấm điểm: class1
+Mở thành công file class1
+*** Phân tích ***
+Có lỗi xảy ra khi ghi kết quả có mã [N00000001] vào file!
+Có lỗi xảy ra khi ghi kết quả có mã [N00000002] vào file!
+Có lỗi xảy ra khi ghi kết quả có mã [N00000003] vào file!
+Có lỗi xảy ra khi ghi kết quả có mã [N00000004] vào file!
+Có lỗi xảy ra khi ghi kết quả có mã [N00000005] vào file!
+Có lỗi xảy ra khi ghi kết quả có mã [N00000006] vào file!
+Có lỗi xảy ra khi ghi kết quả có mã [N00000007] vào file!
+Có lỗi xảy ra khi ghi kết quả có mã [N00000008] vào file!
+Có lỗi xảy ra khi ghi kết quả có mã [N00000009] vào file!
+Có lỗi xảy ra khi ghi kết quả có mã [N00000010] vào file!
+Có lỗi xảy ra khi ghi kết quả có mã [N00000011] vào file!
+Có lỗi xảy ra khi ghi kết quả có mã [N00000012] vào file!
+Có lỗi xảy ra khi ghi kết quả có mã [N00000013] vào file!
+Có lỗi xảy ra khi ghi kết quả có mã [N00000014] vào file!
+Có lỗi xảy ra khi ghi kết quả có mã [N00000015] vào file!
+Có lỗi xảy ra khi ghi kết quả có mã [N00000016] vào file!
+Có lỗi xảy ra khi ghi kết quả có mã [N00000017] vào file!
+Có lỗi xảy ra khi ghi kết quả có mã [N00000018] vào file!
+Có lỗi xảy ra khi ghi kết quả có mã [N00000019] vào file!
+Có lỗi xảy ra khi ghi kết quả có mã [N00000020] vào file!
+============Chấm thi============
+Chọn lớp để chấm điểm: class1
+Mở thành công file class1
+*** Phân tích ***
+Có lỗi xảy ra khi ghi kết quả có mã [N00000001] vào file!
+Có lỗi xảy ra khi ghi kết quả có mã [N00000002] vào file!
+Có lỗi xảy ra khi ghi kết quả có mã [N00000003] vào file!
+Có lỗi xảy ra khi ghi kết quả có mã [N00000004] vào file!
+Có lỗi xảy ra khi ghi kết quả có mã [N00000005] vào file!
+Có lỗi xảy ra khi ghi kết quả có mã [N00000006] vào file!
+Có lỗi xảy ra khi ghi kết quả có mã [N00000007] vào file!
+Có lỗi xảy ra khi ghi kết quả có mã [N00000008] vào file!
+Có lỗi xảy ra khi ghi kết quả có mã [N00000009] vào file!
+Có lỗi xảy ra khi ghi kết quả có mã [N00000010] vào file!
+Có lỗi xảy ra khi ghi kết quả có mã [N00000011] vào file!
+Có lỗi xảy ra khi ghi kết quả có mã [N00000012] vào file!
+Có lỗi xảy ra khi ghi kết quả có mã [N00000013] vào file!
+Có lỗi xảy ra khi ghi kết quả có mã [N00000014] vào file!
+Có lỗi xảy ra khi ghi kết quả có mã [N00000015] vào file!
+Có lỗi xảy ra khi ghi kết quả có mã [N00000016] vào file!
+Có lỗi xảy ra khi ghi kết quả có mã [N00000017] vào file!
+Có lỗi xảy ra khi ghi kết quả có mã [N00000018] vào file!
+Có lỗi xảy ra khi ghi kết quả có mã [N00000019] vào file!
+Có lỗi xảy ra khi ghi kết quả có mã [N00000020] vào file!
+============Chấm thi============
+Chọn lớp để chấm điểm: class1
+Mở thành công file class1
+*** Phân tích ***
+Có lỗi xảy ra khi ghi kết quả có mã [N00000001] vào file!
+Có lỗi xảy ra khi ghi kết quả có mã [N00000002] vào file!
+Có lỗi xảy ra khi ghi kết quả có mã [N00000003] vào file!
+Có lỗi xảy ra khi ghi kết quả có mã [N00000004] vào file!
+Có lỗi xảy ra khi ghi kết quả có mã [N00000005] vào file!
+Có lỗi xảy ra khi ghi kết quả có mã [N00000006] vào file!
+Có lỗi xảy ra khi ghi kết quả có mã [N00000007] vào file!
+Có lỗi xảy ra khi ghi kết quả có mã [N00000008] vào file!
+Có lỗi xảy ra khi ghi kết quả có mã [N00000009] vào file!
+Có lỗi xảy ra khi ghi kết quả có mã [N00000010] vào file!
+Có lỗi xảy ra khi ghi kết quả có mã [N00000011] vào file!
+Có lỗi xảy ra khi ghi kết quả có mã [N00000012] vào file!
+Có lỗi xảy ra khi ghi kết quả có mã [N00000013] vào file!
+Có lỗi xảy ra khi ghi kết quả có mã [N00000014] vào file!
+Có lỗi xảy ra khi ghi kết quả có mã [N00000015] vào file!
+Có lỗi xảy ra khi ghi kết quả có mã [N00000016] vào file!
+Có lỗi xảy ra khi ghi kết quả có mã [N00000017] vào file!
+Có lỗi xảy ra khi ghi kết quả có mã [N00000018] vào file!
+Có lỗi xảy ra khi ghi kết quả có mã [N00000019] vào file!
+Có lỗi xảy ra khi ghi kết quả có mã [N00000020] vào file!
+============Chấm thi============
+Chọn lớp để chấm điểm: class1
+Mở thành công file class1
+*** Phân tích ***
+Có lỗi xảy ra khi ghi kết quả có mã [N00000001] vào file!
+Có lỗi xảy ra khi ghi kết quả có mã [N00000002] vào file!
+Có lỗi xảy ra khi ghi kết quả có mã [N00000003] vào file!
+Có lỗi xảy ra khi ghi kết quả có mã [N00000004] vào file!
+Có lỗi xảy ra khi ghi kết quả có mã [N00000005] vào file!
+Có lỗi xảy ra khi ghi kết quả có mã [N00000006] vào file!
+Có lỗi xảy ra khi ghi kết quả có mã [N00000007] vào file!
+Có lỗi xảy ra khi ghi kết quả có mã [N00000008] vào file!
+Có lỗi xảy ra khi ghi kết quả có mã [N00000009] vào file!
+Có lỗi xảy ra khi ghi kết quả có mã [N00000010] vào file!
+Có lỗi xảy ra khi ghi kết quả có mã [N00000011] vào file!
+Có lỗi xảy ra khi ghi kết quả có mã [N00000012] vào file!
+Có lỗi xảy ra khi ghi kết quả có mã [N00000013] vào file!
+Có lỗi xảy ra khi ghi kết quả có mã [N00000014] vào file!
+Có lỗi xảy ra khi ghi kết quả có mã [N00000015] vào file!
+Có lỗi xảy ra khi ghi kết quả có mã [N00000016] vào file!
+Có lỗi xảy ra khi ghi kết quả có mã [N00000017] vào file!
+Có lỗi xảy ra khi ghi kết quả có mã [N00000018] vào file!
+Có lỗi xảy ra khi ghi kết quả có mã [N00000019] vào file!
+Có lỗi xảy ra khi ghi kết quả có mã [N00000020] vào file!
+============Chấm thi============
+Chọn lớp để chấm điểm: class1
+Mở thành công file class1
+*** Phân tích ***
+Có lỗi xảy ra khi ghi kết quả có mã [N00000001] vào file!
+Có lỗi xảy ra khi ghi kết quả có mã [N00000002] vào file!
+Có lỗi xảy ra khi ghi kết quả có mã [N00000003] vào file!
+Có lỗi xảy ra khi ghi kết quả có mã [N00000004] vào file!
+Có lỗi xảy ra khi ghi kết quả có mã [N00000005] vào file!
+Có lỗi xảy ra khi ghi kết quả có mã [N00000006] vào file!
+Có lỗi xảy ra khi ghi kết quả có mã [N00000007] vào file!
+Có lỗi xảy ra khi ghi kết quả có mã [N00000008] vào file!
+Có lỗi xảy ra khi ghi kết quả có mã [N00000009] vào file!
+Có lỗi xảy ra khi ghi kết quả có mã [N00000010] vào file!
+Có lỗi xảy ra khi ghi kết quả có mã [N00000011] vào file!
+Có lỗi xảy ra khi ghi kết quả có mã [N00000012] vào file!
+Có lỗi xảy ra khi ghi kết quả có mã [N00000013] vào file!
+Có lỗi xảy ra khi ghi kết quả có mã [N00000014] vào file!
+Có lỗi xảy ra khi ghi kết quả có mã [N00000015] vào file!
+Có lỗi xảy ra khi ghi kết quả có mã [N00000016] vào file!
+Có lỗi xảy ra khi ghi kết quả có mã [N00000017] vào file!
+Có lỗi xảy ra khi ghi kết quả có mã [N00000018] vào file!
+Có lỗi xảy ra khi ghi kết quả có mã [N00000019] vào file!
+Có lỗi xảy ra khi ghi kết quả có mã [N00000020] vào file!
+============Chấm thi============
+Chọn lớp để chấm điểm: class1
+Mở thành công file class1
+*** Phân tích ***
+Có lỗi xảy ra khi ghi kết quả có mã [N00000001] vào file!
+Có lỗi xảy ra khi ghi kết quả có mã [N00000002] vào file!
+Có lỗi xảy ra khi ghi kết quả có mã [N00000003] vào file!
+Có lỗi xảy ra khi ghi kết quả có mã [N00000004] vào file!
+Có lỗi xảy ra khi ghi kết quả có mã [N00000005] vào file!
+Có lỗi xảy ra khi ghi kết quả có mã [N00000006] vào file!
+Có lỗi xảy ra khi ghi kết quả có mã [N00000007] vào file!
+Có lỗi xảy ra khi ghi kết quả có mã [N00000008] vào file!
+Có lỗi xảy ra khi ghi kết quả có mã [N00000009] vào file!
+Có lỗi xảy ra khi ghi kết quả có mã [N00000010] vào file!
+Có lỗi xảy ra khi ghi kết quả có mã [N00000011] vào file!
+Có lỗi xảy ra khi ghi kết quả có mã [N00000012] vào file!
+Có lỗi xảy ra khi ghi kết quả có mã [N00000013] vào file!
+Có lỗi xảy ra khi ghi kết quả có mã [N00000014] vào file!
+Có lỗi xảy ra khi ghi kết quả có mã [N00000015] vào file!
+Có lỗi xảy ra khi ghi kết quả có mã [N00000016] vào file!
+Có lỗi xảy ra khi ghi kết quả có mã [N00000017] vào file!
+Có lỗi xảy ra khi ghi kết quả có mã [N00000018] vào file!
+Có lỗi xảy ra khi ghi kết quả có mã [N00000019] vào file!
+Có lỗi xảy ra khi ghi kết quả có mã [N00000020] vào file!
+============Chấm thi============
+Chọn lớp để chấm điểm: class1
+Mở thành công file class1
+*** Phân tích ***
+============Chấm thi============
+Chọn lớp để chấm điểm: class1
+Mở thành công file class1
+*** Phân tích ***
+Có lỗi xảy ra khi ghi kết quả có mã [N00000001] vào file!
+Có lỗi xảy ra khi ghi kết quả có mã [N00000002] vào file!
+Có lỗi xảy ra khi ghi kết quả có mã [N00000003] vào file!
+Có lỗi xảy ra khi ghi kết quả có mã [N00000004] vào file!
+Có lỗi xảy ra khi ghi kết quả có mã [N00000005] vào file!
+Có lỗi xảy ra khi ghi kết quả có mã [N00000006] vào file!
+Có lỗi xảy ra khi ghi kết quả có mã [N00000007] vào file!
+Có lỗi xảy ra khi ghi kết quả có mã [N00000008] vào file!
+Có lỗi xảy ra khi ghi kết quả có mã [N00000009] vào file!
+Có lỗi xảy ra khi ghi kết quả có mã [N00000010] vào file!
+Có lỗi xảy ra khi ghi kết quả có mã [N00000011] vào file!
+Có lỗi xảy ra khi ghi kết quả có mã [N00000012] vào file!
+Có lỗi xảy ra khi ghi kết quả có mã [N00000013] vào file!
+Có lỗi xảy ra khi ghi kết quả có mã [N00000014] vào file!
+Có lỗi xảy ra khi ghi kết quả có mã [N00000015] vào file!
+Có lỗi xảy ra khi ghi kết quả có mã [N00000016] vào file!
+Có lỗi xảy ra khi ghi kết quả có mã [N00000017] vào file!
+Có lỗi xảy ra khi ghi kết quả có mã [N00000018] vào file!
+Có lỗi xảy ra khi ghi kết quả có mã [N00000019] vào file!
+Có lỗi xảy ra khi ghi kết quả có mã [N00000020] vào file!
+============Chấm thi============
+Chọn lớp để chấm điểm: clas1
+Mở thành công file clas1
+*** Phân tích ***
+Có lỗi xảy ra khi chấm kết quả: 'NoneType' object is not iterable
+============Chấm thi============
+Chọn lớp để chấm điểm: class1
+Mở thành công file class1
+*** Phân tích ***
+============Chấm thi============
+Chọn lớp để chấm điểm: class1
+Mở thành công file class1
+*** Phân tích ***
+Dữ liệu đáp án không hợp lệ : Không chứa đầy đủ 25 kết quả
+['N00000003', '', 'C', 'B', '', 'A', 'D', 'A', '', 'B', 'A', '', 'C', 'C', 'B', 'A', 'D', 'B', 'B', 'C', 'D', '', 'B', 'A', 'B']
+Dữ liệu đáp án không hợp lệ : Không chứa đầy đủ 25 kết quả
+['N00000022', 'D', 'C', 'B', 'B', 'A', 'D', 'A', 'D', 'B', 'A', '', 'C', 'C', 'B', 'A', 'D', 'B', 'B', 'C', 'D', 'D', '', 'A', 'B']
+Dữ liệu đáp án không hợp lệ : Không chứa đầy đủ 25 kết quả
+['N00000026', 'D', 'C', 'B', 'B', 'A', 'D', 'A', 'D', 'B', 'A', 'B', 'B', '', 'B', 'A', 'D', 'B', '', 'C', 'D', 'D', 'B', 'A', 'B']
+============Chấm thi============
+Chọn lớp để chấm điểm: class1
+Mở thành công file class1
+============Chấm thi============
+Chọn lớp để chấm điểm: class1
+Mở thành công file class1
+*** Phân tích ***
+Dữ liệu đáp án không hợp lệ : Không chứa đầy đủ 25 kết quả
+['N00000003', '', 'C', 'B', '', 'A', 'D', 'A', '', 'B', 'A', '', 'C', 'C', 'B', 'A', 'D', 'B', 'B', 'C', 'D', '', 'B', 'A', 'B']
+Dữ liệu đáp án không hợp lệ : Không chứa đầy đủ 25 kết quả
+['N00000022', 'D', 'C', 'B', 'B', 'A', 'D', 'A', 'D', 'B', 'A', '', 'C', 'C', 'B', 'A', 'D', 'B', 'B', 'C', 'D', 'D', '', 'A', 'B']
+Dữ liệu đáp án không hợp lệ : Không chứa đầy đủ 25 kết quả
+['N00000026', 'D', 'C', 'B', 'B', 'A', 'D', 'A', 'D', 'B', 'A', 'B', 'B', '', 'B', 'A', 'D', 'B', '', 'C', 'D', 'D', 'B', 'A', 'B']
+============Chấm thi============
+Chọn lớp để chấm điểm: class1
+Mở thành công file class1
+*** Phân tích ***
+Dữ liệu đáp án không hợp lệ : Không chứa đầy đủ 25 kết quả
+['N00000003', '', 'C', 'B', '', 'A', 'D', 'A', '', 'B', 'A', '', 'C', 'C', 'B', 'A', 'D', 'B', 'B', 'C', 'D', '', 'B', 'A', 'B']
+Dữ liệu đáp án không hợp lệ : Không chứa đầy đủ 25 kết quả
+['N00000022', 'D', 'C', 'B', 'B', 'A', 'D', 'A', 'D', 'B', 'A', '', 'C', 'C', 'B', 'A', 'D', 'B', 'B', 'C', 'D', 'D', '', 'A', 'B']
+Dữ liệu đáp án không hợp lệ : Không chứa đầy đủ 25 kết quả
+['N00000026', 'D', 'C', 'B', 'B', 'A', 'D', 'A', 'D', 'B', 'A', 'B', 'B', '', 'B', 'A', 'D', 'B', '', 'C', 'D', 'D', 'B', 'A', 'B']
+============Chấm thi============
+Chọn lớp để chấm điểm: class1
+Mở thành công file class1
+*** Phân tích ***
+Dữ liệu đáp án không hợp lệ : Không chứa đầy đủ 25 kết quả
+['N00000003', '', 'C', 'B', '', 'A', 'D', 'A', '', 'B', 'A', '', 'C', 'C', 'B', 'A', 'D', 'B', 'B', 'C', 'D', '', 'B', 'A', 'B']
+Dữ liệu đáp án không hợp lệ : Không chứa đầy đủ 25 kết quả
+['N00000022', 'D', 'C', 'B', 'B', 'A', 'D', 'A', 'D', 'B', 'A', '', 'C', 'C', 'B', 'A', 'D', 'B', 'B', 'C', 'D', 'D', '', 'A', 'B']
+Dữ liệu đáp án không hợp lệ : Không chứa đầy đủ 25 kết quả
+['N00000026', 'D', 'C', 'B', 'B', 'A', 'D', 'A', 'D', 'B', 'A', 'B', 'B', '', 'B', 'A', 'D', 'B', '', 'C', 'D', 'D', 'B', 'A', 'B']
+============Chấm thi============
+Chọn lớp để chấm điểm: class1
+Mở thành công file class1
+*** Phân tích ***
+Dữ liệu đáp án không hợp lệ : Không chứa đầy đủ 25 kết quả
+['N00000003', '', 'C', 'B', '', 'A', 'D', 'A', '', 'B', 'A', '', 'C', 'C', 'B', 'A', 'D', 'B', 'B', 'C', 'D', '', 'B', 'A', 'B']
+Dữ liệu đáp án không hợp lệ : Không chứa đầy đủ 25 kết quả
+['N00000022', 'D', 'C', 'B', 'B', 'A', 'D', 'A', 'D', 'B', 'A', '', 'C', 'C', 'B', 'A', 'D', 'B', 'B', 'C', 'D', 'D', '', 'A', 'B']
+Dữ liệu đáp án không hợp lệ : Không chứa đầy đủ 25 kết quả
+['N00000026', 'D', 'C', 'B', 'B', 'A', 'D', 'A', 'D', 'B', 'A', 'B', 'B', '', 'B', 'A', 'D', 'B', '', 'C', 'D', 'D', 'B', 'A', 'B']
+Số lượng học sinh đạt điểm cao là: 48
+Điểm trung bình là: 88.81481481481481
+Điểm cao nhất là: 96
+Điểm thấp nhất là: 58
+Chênh lệch điểm là: 38
+Điểm có giá trị trung vị là: 88.81481481481481
+============Chấm thi============
+Chọn lớp để chấm điểm: class2
+Mở thành công file class2
+*** Phân tích ***
+Số lượng học sinh đạt điểm cao là: 1
+Điểm trung bình là: 56.833333333333336
+Điểm cao nhất là: 87
+Điểm thấp nhất là: 32
+Chênh lệch điểm là: 55
+Điểm có giá trị trung vị là: 56.833333333333336
+Số thứ tự câu hỏi [24],số lượng học sinh bỏ qua [8],tỉ lệ bị bỏ qua[32.0]
+Số thứ tự câu hỏi [12],số lượng học sinh bỏ qua [6],tỉ lệ bị bỏ qua[24.0]
+Số thứ tự câu hỏi [3],số lượng học sinh bỏ qua [5],tỉ lệ bị bỏ qua[20.0]
+Số thứ tự câu hỏi [6],số lượng học sinh bỏ qua [5],tỉ lệ bị bỏ qua[20.0]
+Số thứ tự câu hỏi [18],số lượng học sinh bỏ qua [5],tỉ lệ bị bỏ qua[20.0]
+Số thứ tự câu hỏi [19],số lượng học sinh bỏ qua [5],tỉ lệ bị bỏ qua[20.0]
+Số thứ tự câu hỏi [1],số lượng học sinh bỏ qua [4],tỉ lệ bị bỏ qua[16.0]
+Số thứ tự câu hỏi [8],số lượng học sinh bỏ qua [4],tỉ lệ bị bỏ qua[16.0]
+Số thứ tự câu hỏi [10],số lượng học sinh bỏ qua [4],tỉ lệ bị bỏ qua[16.0]
+Số thứ tự câu hỏi [21],số lượng học sinh bỏ qua [4],tỉ lệ bị bỏ qua[16.0]
+Số thứ tự câu hỏi [5],số lượng học sinh bỏ qua [3],tỉ lệ bị bỏ qua[12.0]
+Số thứ tự câu hỏi [13],số lượng học sinh bỏ qua [3],tỉ lệ bị bỏ qua[12.0]
+Số thứ tự câu hỏi [17],số lượng học sinh bỏ qua [3],tỉ lệ bị bỏ qua[12.0]
+Số thứ tự câu hỏi [23],số lượng học sinh bỏ qua [3],tỉ lệ bị bỏ qua[12.0]
+Số thứ tự câu hỏi [2],số lượng học sinh bỏ qua [2],tỉ lệ bị bỏ qua[8.0]
+Số thứ tự câu hỏi [7],số lượng học sinh bỏ qua [2],tỉ lệ bị bỏ qua[8.0]
+Số thứ tự câu hỏi [9],số lượng học sinh bỏ qua [2],tỉ lệ bị bỏ qua[8.0]
+Số thứ tự câu hỏi [20],số lượng học sinh bỏ qua [2],tỉ lệ bị bỏ qua[8.0]
+Số thứ tự câu hỏi [4],số lượng học sinh bỏ qua [1],tỉ lệ bị bỏ qua[4.0]
+Số thứ tự câu hỏi [11],số lượng học sinh bỏ qua [1],tỉ lệ bị bỏ qua[4.0]
+Số thứ tự câu hỏi [14],số lượng học sinh bỏ qua [1],tỉ lệ bị bỏ qua[4.0]
+Số thứ tự câu hỏi [22],số lượng học sinh bỏ qua [1],tỉ lệ bị bỏ qua[4.0]
+Số thứ tự câu hỏi [25],số lượng học sinh bỏ qua [1],tỉ lệ bị bỏ qua[4.0]
+Số thứ tự câu hỏi [15],số lượng học sinh trả lời sai [30],tỉ lệ bị sai[120.0]
+Số thứ tự câu hỏi [16],số lượng học sinh trả lời sai [30],tỉ lệ bị sai[120.0]
+Số thứ tự câu hỏi [4],số lượng học sinh trả lời sai [29],tỉ lệ bị sai[115.99999999999999]
+Số thứ tự câu hỏi [11],số lượng học sinh trả lời sai [29],tỉ lệ bị sai[115.99999999999999]
+Số thứ tự câu hỏi [14],số lượng học sinh trả lời sai [29],tỉ lệ bị sai[115.99999999999999]
+Số thứ tự câu hỏi [22],số lượng học sinh trả lời sai [29],tỉ lệ bị sai[115.99999999999999]
+Số thứ tự câu hỏi [25],số lượng học sinh trả lời sai [29],tỉ lệ bị sai[115.99999999999999]
+Số thứ tự câu hỏi [2],số lượng học sinh trả lời sai [28],tỉ lệ bị sai[112.00000000000001]
+Số thứ tự câu hỏi [7],số lượng học sinh trả lời sai [28],tỉ lệ bị sai[112.00000000000001]
+Số thứ tự câu hỏi [9],số lượng học sinh trả lời sai [28],tỉ lệ bị sai[112.00000000000001]
+Số thứ tự câu hỏi [20],số lượng học sinh trả lời sai [28],tỉ lệ bị sai[112.00000000000001]
+Số thứ tự câu hỏi [5],số lượng học sinh trả lời sai [27],tỉ lệ bị sai[108.0]
+Số thứ tự câu hỏi [13],số lượng học sinh trả lời sai [27],tỉ lệ bị sai[108.0]
+Số thứ tự câu hỏi [17],số lượng học sinh trả lời sai [27],tỉ lệ bị sai[108.0]
+Số thứ tự câu hỏi [23],số lượng học sinh trả lời sai [27],tỉ lệ bị sai[108.0]
+Số thứ tự câu hỏi [1],số lượng học sinh trả lời sai [26],tỉ lệ bị sai[104.0]
+Số thứ tự câu hỏi [8],số lượng học sinh trả lời sai [26],tỉ lệ bị sai[104.0]
+Số thứ tự câu hỏi [10],số lượng học sinh trả lời sai [26],tỉ lệ bị sai[104.0]
+Số thứ tự câu hỏi [21],số lượng học sinh trả lời sai [26],tỉ lệ bị sai[104.0]
+Số thứ tự câu hỏi [3],số lượng học sinh trả lời sai [25],tỉ lệ bị sai[100.0]
+Số thứ tự câu hỏi [6],số lượng học sinh trả lời sai [25],tỉ lệ bị sai[100.0]
+Số thứ tự câu hỏi [18],số lượng học sinh trả lời sai [25],tỉ lệ bị sai[100.0]
+Số thứ tự câu hỏi [19],số lượng học sinh trả lời sai [25],tỉ lệ bị sai[100.0]
+Số thứ tự câu hỏi [12],số lượng học sinh trả lời sai [24],tỉ lệ bị sai[96.0]
+Số thứ tự câu hỏi [24],số lượng học sinh trả lời sai [22],tỉ lệ bị sai[88.0]
+============Chấm thi============
+Chọn lớp để chấm điểm: class2
+Mở thành công file class2
+*** Phân tích ***
+Số lượng học sinh đạt điểm cao là: 2
+Điểm trung bình là: 5.7e+01
+Điểm cao nhất là: 87
+Điểm thấp nhất là: 32
+Chênh lệch điểm là: 55
+Điểm có giá trị trung vị là: 5.7e+01
+Số thứ tự câu hỏi [24],số lượng học sinh bỏ qua [16],tỉ lệ bị bỏ qua[2.7e+01]
+Số thứ tự câu hỏi [12],số lượng học sinh bỏ qua [12],tỉ lệ bị bỏ qua[2e+01]
+Số thứ tự câu hỏi [3],số lượng học sinh bỏ qua [10],tỉ lệ bị bỏ qua[1.7e+01]
+Số thứ tự câu hỏi [6],số lượng học sinh bỏ qua [10],tỉ lệ bị bỏ qua[1.7e+01]
+Số thứ tự câu hỏi [18],số lượng học sinh bỏ qua [10],tỉ lệ bị bỏ qua[1.7e+01]
+Số thứ tự câu hỏi [19],số lượng học sinh bỏ qua [10],tỉ lệ bị bỏ qua[1.7e+01]
+Số thứ tự câu hỏi [1],số lượng học sinh bỏ qua [8],tỉ lệ bị bỏ qua[1.3e+01]
+Số thứ tự câu hỏi [8],số lượng học sinh bỏ qua [8],tỉ lệ bị bỏ qua[1.3e+01]
+Số thứ tự câu hỏi [10],số lượng học sinh bỏ qua [8],tỉ lệ bị bỏ qua[1.3e+01]
+Số thứ tự câu hỏi [21],số lượng học sinh bỏ qua [8],tỉ lệ bị bỏ qua[1.3e+01]
+Số thứ tự câu hỏi [5],số lượng học sinh bỏ qua [6],tỉ lệ bị bỏ qua[1e+01]
+Số thứ tự câu hỏi [13],số lượng học sinh bỏ qua [6],tỉ lệ bị bỏ qua[1e+01]
+Số thứ tự câu hỏi [17],số lượng học sinh bỏ qua [6],tỉ lệ bị bỏ qua[1e+01]
+Số thứ tự câu hỏi [23],số lượng học sinh bỏ qua [6],tỉ lệ bị bỏ qua[1e+01]
+Số thứ tự câu hỏi [2],số lượng học sinh bỏ qua [4],tỉ lệ bị bỏ qua[6.7]
+Số thứ tự câu hỏi [7],số lượng học sinh bỏ qua [4],tỉ lệ bị bỏ qua[6.7]
+Số thứ tự câu hỏi [9],số lượng học sinh bỏ qua [4],tỉ lệ bị bỏ qua[6.7]
+Số thứ tự câu hỏi [20],số lượng học sinh bỏ qua [4],tỉ lệ bị bỏ qua[6.7]
+Số thứ tự câu hỏi [4],số lượng học sinh bỏ qua [2],tỉ lệ bị bỏ qua[3.3]
+Số thứ tự câu hỏi [11],số lượng học sinh bỏ qua [2],tỉ lệ bị bỏ qua[3.3]
+Số thứ tự câu hỏi [14],số lượng học sinh bỏ qua [2],tỉ lệ bị bỏ qua[3.3]
+Số thứ tự câu hỏi [22],số lượng học sinh bỏ qua [2],tỉ lệ bị bỏ qua[3.3]
+Số thứ tự câu hỏi [25],số lượng học sinh bỏ qua [2],tỉ lệ bị bỏ qua[3.3]
+Số thứ tự câu hỏi [15],số lượng học sinh trả lời sai [60],tỉ lệ bị sai[1e+02]
+Số thứ tự câu hỏi [16],số lượng học sinh trả lời sai [60],tỉ lệ bị sai[1e+02]
+Số thứ tự câu hỏi [4],số lượng học sinh trả lời sai [58],tỉ lệ bị sai[9.7e+01]
+Số thứ tự câu hỏi [11],số lượng học sinh trả lời sai [58],tỉ lệ bị sai[9.7e+01]
+Số thứ tự câu hỏi [14],số lượng học sinh trả lời sai [58],tỉ lệ bị sai[9.7e+01]
+Số thứ tự câu hỏi [22],số lượng học sinh trả lời sai [58],tỉ lệ bị sai[9.7e+01]
+Số thứ tự câu hỏi [25],số lượng học sinh trả lời sai [58],tỉ lệ bị sai[9.7e+01]
+Số thứ tự câu hỏi [2],số lượng học sinh trả lời sai [56],tỉ lệ bị sai[9.3e+01]
+Số thứ tự câu hỏi [7],số lượng học sinh trả lời sai [56],tỉ lệ bị sai[9.3e+01]
+Số thứ tự câu hỏi [9],số lượng học sinh trả lời sai [56],tỉ lệ bị sai[9.3e+01]
+Số thứ tự câu hỏi [20],số lượng học sinh trả lời sai [56],tỉ lệ bị sai[9.3e+01]
+Số thứ tự câu hỏi [5],số lượng học sinh trả lời sai [54],tỉ lệ bị sai[9e+01]
+Số thứ tự câu hỏi [13],số lượng học sinh trả lời sai [54],tỉ lệ bị sai[9e+01]
+Số thứ tự câu hỏi [17],số lượng học sinh trả lời sai [54],tỉ lệ bị sai[9e+01]
+Số thứ tự câu hỏi [23],số lượng học sinh trả lời sai [54],tỉ lệ bị sai[9e+01]
+Số thứ tự câu hỏi [1],số lượng học sinh trả lời sai [52],tỉ lệ bị sai[8.7e+01]
+Số thứ tự câu hỏi [8],số lượng học sinh trả lời sai [52],tỉ lệ bị sai[8.7e+01]
+Số thứ tự câu hỏi [10],số lượng học sinh trả lời sai [52],tỉ lệ bị sai[8.7e+01]
+Số thứ tự câu hỏi [21],số lượng học sinh trả lời sai [52],tỉ lệ bị sai[8.7e+01]
+Số thứ tự câu hỏi [3],số lượng học sinh trả lời sai [50],tỉ lệ bị sai[8.3e+01]
+Số thứ tự câu hỏi [6],số lượng học sinh trả lời sai [50],tỉ lệ bị sai[8.3e+01]
+Số thứ tự câu hỏi [18],số lượng học sinh trả lời sai [50],tỉ lệ bị sai[8.3e+01]
+Số thứ tự câu hỏi [19],số lượng học sinh trả lời sai [50],tỉ lệ bị sai[8.3e+01]
+Số thứ tự câu hỏi [12],số lượng học sinh trả lời sai [48],tỉ lệ bị sai[8e+01]
+Số thứ tự câu hỏi [24],số lượng học sinh trả lời sai [44],tỉ lệ bị sai[7.3e+01]
+============Chấm thi============
+Chọn lớp để chấm điểm: class1
+Mở thành công file class1
+*** Phân tích ***
+Dữ liệu đáp án không hợp lệ : Không chứa đầy đủ 25 kết quả
+['N00000003', '', 'C', 'B', '', 'A', 'D', 'A', '', 'B', 'A', '', 'C', 'C', 'B', 'A', 'D', 'B', 'B', 'C', 'D', '', 'B', 'A', 'B']
+Dữ liệu đáp án không hợp lệ : Không chứa đầy đủ 25 kết quả
+['N00000022', 'D', 'C', 'B', 'B', 'A', 'D', 'A', 'D', 'B', 'A', '', 'C', 'C', 'B', 'A', 'D', 'B', 'B', 'C', 'D', 'D', '', 'A', 'B']
+Dữ liệu đáp án không hợp lệ : Không chứa đầy đủ 25 kết quả
+['N00000026', 'D', 'C', 'B', 'B', 'A', 'D', 'A', 'D', 'B', 'A', 'B', 'B', '', 'B', 'A', 'D', 'B', '', 'C', 'D', 'D', 'B', 'A', 'B']
+Số lượng học sinh đạt điểm cao là: 72
+Điểm trung bình là: 8.9e+01
+Điểm cao nhất là: 96
+Điểm thấp nhất là: 58
+Chênh lệch điểm là: 38
+Điểm có giá trị trung vị là: 8.9e+01
+Số thứ tự câu hỏi [22],số lượng học sinh bỏ qua [18],tỉ lệ bị bỏ qua[2.2e+01]
+Số thứ tự câu hỏi [23],số lượng học sinh bỏ qua [18],tỉ lệ bị bỏ qua[2.2e+01]
+Số thứ tự câu hỏi [3],số lượng học sinh bỏ qua [15],tỉ lệ bị bỏ qua[1.9e+01]
+Số thứ tự câu hỏi [24],số lượng học sinh bỏ qua [15],tỉ lệ bị bỏ qua[1.9e+01]
+Số thứ tự câu hỏi [2],số lượng học sinh bỏ qua [12],tỉ lệ bị bỏ qua[1.5e+01]
+Số thứ tự câu hỏi [4],số lượng học sinh bỏ qua [12],tỉ lệ bị bỏ qua[1.5e+01]
+Số thứ tự câu hỏi [5],số lượng học sinh bỏ qua [12],tỉ lệ bị bỏ qua[1.5e+01]
+Số thứ tự câu hỏi [6],số lượng học sinh bỏ qua [12],tỉ lệ bị bỏ qua[1.5e+01]
+Số thứ tự câu hỏi [12],số lượng học sinh bỏ qua [12],tỉ lệ bị bỏ qua[1.5e+01]
+Số thứ tự câu hỏi [19],số lượng học sinh bỏ qua [12],tỉ lệ bị bỏ qua[1.5e+01]
+Số thứ tự câu hỏi [1],số lượng học sinh bỏ qua [9],tỉ lệ bị bỏ qua[1.1e+01]
+Số thứ tự câu hỏi [8],số lượng học sinh bỏ qua [9],tỉ lệ bị bỏ qua[1.1e+01]
+Số thứ tự câu hỏi [13],số lượng học sinh bỏ qua [9],tỉ lệ bị bỏ qua[1.1e+01]
+Số thứ tự câu hỏi [14],số lượng học sinh bỏ qua [9],tỉ lệ bị bỏ qua[1.1e+01]
+Số thứ tự câu hỏi [15],số lượng học sinh bỏ qua [9],tỉ lệ bị bỏ qua[1.1e+01]
+Số thứ tự câu hỏi [16],số lượng học sinh bỏ qua [9],tỉ lệ bị bỏ qua[1.1e+01]
+Số thứ tự câu hỏi [25],số lượng học sinh bỏ qua [9],tỉ lệ bị bỏ qua[1.1e+01]
+Số thứ tự câu hỏi [10],số lượng học sinh bỏ qua [6],tỉ lệ bị bỏ qua[7.4]
+Số thứ tự câu hỏi [17],số lượng học sinh bỏ qua [6],tỉ lệ bị bỏ qua[7.4]
+Số thứ tự câu hỏi [11],số lượng học sinh bỏ qua [3],tỉ lệ bị bỏ qua[3.7]
+Số thứ tự câu hỏi [20],số lượng học sinh bỏ qua [3],tỉ lệ bị bỏ qua[3.7]
+============Chấm thi============
+Chọn lớp để chấm điểm: class1
+Mở thành công file class1
+*** Phân tích ***
+Dữ liệu đáp án không hợp lệ : Không chứa đầy đủ 25 kết quả
+['N00000003', '', 'C', 'B', '', 'A', 'D', 'A', '', 'B', 'A', '', 'C', 'C', 'B', 'A', 'D', 'B', 'B', 'C', 'D', '', 'B', 'A', 'B']
+Dữ liệu đáp án không hợp lệ : Không chứa đầy đủ 25 kết quả
+['N00000022', 'D', 'C', 'B', 'B', 'A', 'D', 'A', 'D', 'B', 'A', '', 'C', 'C', 'B', 'A', 'D', 'B', 'B', 'C', 'D', 'D', '', 'A', 'B']
+Dữ liệu đáp án không hợp lệ : Không chứa đầy đủ 25 kết quả
+['N00000026', 'D', 'C', 'B', 'B', 'A', 'D', 'A', 'D', 'B', 'A', 'B', 'B', '', 'B', 'A', 'D', 'B', '', 'C', 'D', 'D', 'B', 'A', 'B']
+Số lượng học sinh đạt điểm cao là: 1
+Điểm trung bình là: 9.6e+01
+Điểm cao nhất là: 96
+Điểm thấp nhất là: 96
+Chênh lệch điểm là: 0
+============Chấm thi============
+Chọn lớp để chấm điểm: class1
+Mở thành công file class1
+*** Phân tích ***
+Dữ liệu đáp án không hợp lệ : Không chứa đầy đủ 25 kết quả
+['N00000003', '', 'C', 'B', '', 'A', 'D', 'A', '', 'B', 'A', '', 'C', 'C', 'B', 'A', 'D', 'B', 'B', 'C', 'D', '', 'B', 'A', 'B']
+Dữ liệu đáp án không hợp lệ : Không chứa đầy đủ 25 kết quả
+['N00000022', 'D', 'C', 'B', 'B', 'A', 'D', 'A', 'D', 'B', 'A', '', 'C', 'C', 'B', 'A', 'D', 'B', 'B', 'C', 'D', 'D', '', 'A', 'B']
+Dữ liệu đáp án không hợp lệ : Không chứa đầy đủ 25 kết quả
+['N00000026', 'D', 'C', 'B', 'B', 'A', 'D', 'A', 'D', 'B', 'A', 'B', 'B', '', 'B', 'A', 'D', 'B', '', 'C', 'D', 'D', 'B', 'A', 'B']
+Số lượng học sinh đạt điểm cao là: 24
+Điểm trung bình là: 8.9e+01
+Điểm cao nhất là: 96
+Điểm thấp nhất là: 58
+Chênh lệch điểm là: 38
+Điểm có giá trị trung vị là: 8.9e+01
+Số thứ tự câu hỏi [22],số lượng học sinh bỏ qua [6],tỉ lệ bị bỏ qua[2.2e+01]
+Số thứ tự câu hỏi [23],số lượng học sinh bỏ qua [6],tỉ lệ bị bỏ qua[2.2e+01]
+Số thứ tự câu hỏi [3],số lượng học sinh bỏ qua [5],tỉ lệ bị bỏ qua[1.9e+01]
+Số thứ tự câu hỏi [24],số lượng học sinh bỏ qua [5],tỉ lệ bị bỏ qua[1.9e+01]
+Số thứ tự câu hỏi [2],số lượng học sinh bỏ qua [4],tỉ lệ bị bỏ qua[1.5e+01]
+Số thứ tự câu hỏi [4],số lượng học sinh bỏ qua [4],tỉ lệ bị bỏ qua[1.5e+01]
+Số thứ tự câu hỏi [5],số lượng học sinh bỏ qua [4],tỉ lệ bị bỏ qua[1.5e+01]
+Số thứ tự câu hỏi [6],số lượng học sinh bỏ qua [4],tỉ lệ bị bỏ qua[1.5e+01]
+Số thứ tự câu hỏi [12],số lượng học sinh bỏ qua [4],tỉ lệ bị bỏ qua[1.5e+01]
+Số thứ tự câu hỏi [19],số lượng học sinh bỏ qua [4],tỉ lệ bị bỏ qua[1.5e+01]
+Số thứ tự câu hỏi [1],số lượng học sinh bỏ qua [3],tỉ lệ bị bỏ qua[1.1e+01]
+Số thứ tự câu hỏi [8],số lượng học sinh bỏ qua [3],tỉ lệ bị bỏ qua[1.1e+01]
+Số thứ tự câu hỏi [13],số lượng học sinh bỏ qua [3],tỉ lệ bị bỏ qua[1.1e+01]
+Số thứ tự câu hỏi [14],số lượng học sinh bỏ qua [3],tỉ lệ bị bỏ qua[1.1e+01]
+Số thứ tự câu hỏi [15],số lượng học sinh bỏ qua [3],tỉ lệ bị bỏ qua[1.1e+01]
+Số thứ tự câu hỏi [16],số lượng học sinh bỏ qua [3],tỉ lệ bị bỏ qua[1.1e+01]
+Số thứ tự câu hỏi [25],số lượng học sinh bỏ qua [3],tỉ lệ bị bỏ qua[1.1e+01]
+Số thứ tự câu hỏi [10],số lượng học sinh bỏ qua [2],tỉ lệ bị bỏ qua[7.4]
+Số thứ tự câu hỏi [17],số lượng học sinh bỏ qua [2],tỉ lệ bị bỏ qua[7.4]
+Số thứ tự câu hỏi [11],số lượng học sinh bỏ qua [1],tỉ lệ bị bỏ qua[3.7]
+Số thứ tự câu hỏi [20],số lượng học sinh bỏ qua [1],tỉ lệ bị bỏ qua[3.7]
+Số thứ tự câu hỏi [7],số lượng học sinh trả lời sai [27],tỉ lệ bị sai[1e+02]
+Số thứ tự câu hỏi [9],số lượng học sinh trả lời sai [27],tỉ lệ bị sai[1e+02]
+Số thứ tự câu hỏi [18],số lượng học sinh trả lời sai [27],tỉ lệ bị sai[1e+02]
+Số thứ tự câu hỏi [21],số lượng học sinh trả lời sai [27],tỉ lệ bị sai[1e+02]
+Số thứ tự câu hỏi [11],số lượng học sinh trả lời sai [26],tỉ lệ bị sai[9.6e+01]
+Số thứ tự câu hỏi [20],số lượng học sinh trả lời sai [26],tỉ lệ bị sai[9.6e+01]
+Số thứ tự câu hỏi [10],số lượng học sinh trả lời sai [25],tỉ lệ bị sai[9.3e+01]
+Số thứ tự câu hỏi [17],số lượng học sinh trả lời sai [25],tỉ lệ bị sai[9.3e+01]
+Số thứ tự câu hỏi [1],số lượng học sinh trả lời sai [24],tỉ lệ bị sai[8.9e+01]
+Số thứ tự câu hỏi [8],số lượng học sinh trả lời sai [24],tỉ lệ bị sai[8.9e+01]
+Số thứ tự câu hỏi [13],số lượng học sinh trả lời sai [24],tỉ lệ bị sai[8.9e+01]
+Số thứ tự câu hỏi [14],số lượng học sinh trả lời sai [24],tỉ lệ bị sai[8.9e+01]
+Số thứ tự câu hỏi [15],số lượng học sinh trả lời sai [24],tỉ lệ bị sai[8.9e+01]
+Số thứ tự câu hỏi [16],số lượng học sinh trả lời sai [24],tỉ lệ bị sai[8.9e+01]
+Số thứ tự câu hỏi [25],số lượng học sinh trả lời sai [24],tỉ lệ bị sai[8.9e+01]
+Số thứ tự câu hỏi [2],số lượng học sinh trả lời sai [23],tỉ lệ bị sai[8.5e+01]
+Số thứ tự câu hỏi [4],số lượng học sinh trả lời sai [23],tỉ lệ bị sai[8.5e+01]
+Số thứ tự câu hỏi [5],số lượng học sinh trả lời sai [23],tỉ lệ bị sai[8.5e+01]
+Số thứ tự câu hỏi [6],số lượng học sinh trả lời sai [23],tỉ lệ bị sai[8.5e+01]
+Số thứ tự câu hỏi [12],số lượng học sinh trả lời sai [23],tỉ lệ bị sai[8.5e+01]
+Số thứ tự câu hỏi [19],số lượng học sinh trả lời sai [23],tỉ lệ bị sai[8.5e+01]
+Số thứ tự câu hỏi [3],số lượng học sinh trả lời sai [22],tỉ lệ bị sai[8.1e+01]
+Số thứ tự câu hỏi [24],số lượng học sinh trả lời sai [22],tỉ lệ bị sai[8.1e+01]
+Số thứ tự câu hỏi [22],số lượng học sinh trả lời sai [21],tỉ lệ bị sai[7.8e+01]
+Số thứ tự câu hỏi [23],số lượng học sinh trả lời sai [21],tỉ lệ bị sai[7.8e+01]
+============Chấm thi============
+Chọn lớp để chấm điểm: class1
+Mở thành công file class1
+*** Phân tích ***
+Dữ liệu đáp án không hợp lệ : Không chứa đầy đủ 25 kết quả
+['N00000003', '', 'C', 'B', '', 'A', 'D', 'A', '', 'B', 'A', '', 'C', 'C', 'B', 'A', 'D', 'B', 'B', 'C', 'D', '', 'B', 'A', 'B']
+Dữ liệu đáp án không hợp lệ : Không chứa đầy đủ 25 kết quả
+['N00000022', 'D', 'C', 'B', 'B', 'A', 'D', 'A', 'D', 'B', 'A', '', 'C', 'C', 'B', 'A', 'D', 'B', 'B', 'C', 'D', 'D', '', 'A', 'B']
+Dữ liệu đáp án không hợp lệ : Không chứa đầy đủ 25 kết quả
+['N00000026', 'D', 'C', 'B', 'B', 'A', 'D', 'A', 'D', 'B', 'A', 'B', 'B', '', 'B', 'A', 'D', 'B', '', 'C', 'D', 'D', 'B', 'A', 'B']
+Số lượng học sinh đạt điểm cao là: 24
+Điểm trung bình là: 8.9e+01
+Điểm cao nhất là: 96
+Điểm thấp nhất là: 58
+Chênh lệch điểm là: 38
+Điểm có giá trị trung vị là: 8.9e+01
+Số thứ tự câu hỏi [22],số lượng học sinh bỏ qua [6],tỉ lệ bị bỏ qua[22.22]
+Số thứ tự câu hỏi [23],số lượng học sinh bỏ qua [6],tỉ lệ bị bỏ qua[22.22]
+Số thứ tự câu hỏi [3],số lượng học sinh bỏ qua [5],tỉ lệ bị bỏ qua[18.52]
+Số thứ tự câu hỏi [24],số lượng học sinh bỏ qua [5],tỉ lệ bị bỏ qua[18.52]
+Số thứ tự câu hỏi [2],số lượng học sinh bỏ qua [4],tỉ lệ bị bỏ qua[14.81]
+Số thứ tự câu hỏi [4],số lượng học sinh bỏ qua [4],tỉ lệ bị bỏ qua[14.81]
+Số thứ tự câu hỏi [5],số lượng học sinh bỏ qua [4],tỉ lệ bị bỏ qua[14.81]
+Số thứ tự câu hỏi [6],số lượng học sinh bỏ qua [4],tỉ lệ bị bỏ qua[14.81]
+Số thứ tự câu hỏi [12],số lượng học sinh bỏ qua [4],tỉ lệ bị bỏ qua[14.81]
+Số thứ tự câu hỏi [19],số lượng học sinh bỏ qua [4],tỉ lệ bị bỏ qua[14.81]
+Số thứ tự câu hỏi [1],số lượng học sinh bỏ qua [3],tỉ lệ bị bỏ qua[11.11]
+Số thứ tự câu hỏi [8],số lượng học sinh bỏ qua [3],tỉ lệ bị bỏ qua[11.11]
+Số thứ tự câu hỏi [13],số lượng học sinh bỏ qua [3],tỉ lệ bị bỏ qua[11.11]
+Số thứ tự câu hỏi [14],số lượng học sinh bỏ qua [3],tỉ lệ bị bỏ qua[11.11]
+Số thứ tự câu hỏi [15],số lượng học sinh bỏ qua [3],tỉ lệ bị bỏ qua[11.11]
+Số thứ tự câu hỏi [16],số lượng học sinh bỏ qua [3],tỉ lệ bị bỏ qua[11.11]
+Số thứ tự câu hỏi [25],số lượng học sinh bỏ qua [3],tỉ lệ bị bỏ qua[11.11]
+Số thứ tự câu hỏi [10],số lượng học sinh bỏ qua [2],tỉ lệ bị bỏ qua[7.407]
+Số thứ tự câu hỏi [17],số lượng học sinh bỏ qua [2],tỉ lệ bị bỏ qua[7.407]
+Số thứ tự câu hỏi [11],số lượng học sinh bỏ qua [1],tỉ lệ bị bỏ qua[3.704]
+Số thứ tự câu hỏi [20],số lượng học sinh bỏ qua [1],tỉ lệ bị bỏ qua[3.704]
+Số thứ tự câu hỏi [7],số lượng học sinh trả lời sai [27],tỉ lệ bị sai[100.0]
+Số thứ tự câu hỏi [9],số lượng học sinh trả lời sai [27],tỉ lệ bị sai[100.0]
+Số thứ tự câu hỏi [18],số lượng học sinh trả lời sai [27],tỉ lệ bị sai[100.0]
+Số thứ tự câu hỏi [21],số lượng học sinh trả lời sai [27],tỉ lệ bị sai[100.0]
+Số thứ tự câu hỏi [11],số lượng học sinh trả lời sai [26],tỉ lệ bị sai[96.3]
+Số thứ tự câu hỏi [20],số lượng học sinh trả lời sai [26],tỉ lệ bị sai[96.3]
+Số thứ tự câu hỏi [10],số lượng học sinh trả lời sai [25],tỉ lệ bị sai[92.59]
+Số thứ tự câu hỏi [17],số lượng học sinh trả lời sai [25],tỉ lệ bị sai[92.59]
+Số thứ tự câu hỏi [1],số lượng học sinh trả lời sai [24],tỉ lệ bị sai[88.89]
+Số thứ tự câu hỏi [8],số lượng học sinh trả lời sai [24],tỉ lệ bị sai[88.89]
+Số thứ tự câu hỏi [13],số lượng học sinh trả lời sai [24],tỉ lệ bị sai[88.89]
+Số thứ tự câu hỏi [14],số lượng học sinh trả lời sai [24],tỉ lệ bị sai[88.89]
+Số thứ tự câu hỏi [15],số lượng học sinh trả lời sai [24],tỉ lệ bị sai[88.89]
+Số thứ tự câu hỏi [16],số lượng học sinh trả lời sai [24],tỉ lệ bị sai[88.89]
+Số thứ tự câu hỏi [25],số lượng học sinh trả lời sai [24],tỉ lệ bị sai[88.89]
+Số thứ tự câu hỏi [2],số lượng học sinh trả lời sai [23],tỉ lệ bị sai[85.19]
+Số thứ tự câu hỏi [4],số lượng học sinh trả lời sai [23],tỉ lệ bị sai[85.19]
+Số thứ tự câu hỏi [5],số lượng học sinh trả lời sai [23],tỉ lệ bị sai[85.19]
+Số thứ tự câu hỏi [6],số lượng học sinh trả lời sai [23],tỉ lệ bị sai[85.19]
+Số thứ tự câu hỏi [12],số lượng học sinh trả lời sai [23],tỉ lệ bị sai[85.19]
+Số thứ tự câu hỏi [19],số lượng học sinh trả lời sai [23],tỉ lệ bị sai[85.19]
+Số thứ tự câu hỏi [3],số lượng học sinh trả lời sai [22],tỉ lệ bị sai[81.48]
+Số thứ tự câu hỏi [24],số lượng học sinh trả lời sai [22],tỉ lệ bị sai[81.48]
+Số thứ tự câu hỏi [22],số lượng học sinh trả lời sai [21],tỉ lệ bị sai[77.78]
+Số thứ tự câu hỏi [23],số lượng học sinh trả lời sai [21],tỉ lệ bị sai[77.78]
+============Chấm thi============
+Chọn lớp để chấm điểm: class2
+Mở thành công file class2
+*** Phân tích ***
+Số lượng học sinh đạt điểm cao là: 1
+Điểm trung bình là: 5.7e+01
+Điểm cao nhất là: 87
+Điểm thấp nhất là: 32
+Chênh lệch điểm là: 55
+Điểm có giá trị trung vị là: 5.7e+01
+Số thứ tự câu hỏi [24],số lượng học sinh bỏ qua [8],tỉ lệ bị bỏ qua[26.67]
+Số thứ tự câu hỏi [12],số lượng học sinh bỏ qua [6],tỉ lệ bị bỏ qua[20.0]
+Số thứ tự câu hỏi [3],số lượng học sinh bỏ qua [5],tỉ lệ bị bỏ qua[16.67]
+Số thứ tự câu hỏi [6],số lượng học sinh bỏ qua [5],tỉ lệ bị bỏ qua[16.67]
+Số thứ tự câu hỏi [18],số lượng học sinh bỏ qua [5],tỉ lệ bị bỏ qua[16.67]
+Số thứ tự câu hỏi [19],số lượng học sinh bỏ qua [5],tỉ lệ bị bỏ qua[16.67]
+Số thứ tự câu hỏi [1],số lượng học sinh bỏ qua [4],tỉ lệ bị bỏ qua[13.33]
+Số thứ tự câu hỏi [8],số lượng học sinh bỏ qua [4],tỉ lệ bị bỏ qua[13.33]
+Số thứ tự câu hỏi [10],số lượng học sinh bỏ qua [4],tỉ lệ bị bỏ qua[13.33]
+Số thứ tự câu hỏi [21],số lượng học sinh bỏ qua [4],tỉ lệ bị bỏ qua[13.33]
+Số thứ tự câu hỏi [5],số lượng học sinh bỏ qua [3],tỉ lệ bị bỏ qua[10.0]
+Số thứ tự câu hỏi [13],số lượng học sinh bỏ qua [3],tỉ lệ bị bỏ qua[10.0]
+Số thứ tự câu hỏi [17],số lượng học sinh bỏ qua [3],tỉ lệ bị bỏ qua[10.0]
+Số thứ tự câu hỏi [23],số lượng học sinh bỏ qua [3],tỉ lệ bị bỏ qua[10.0]
+Số thứ tự câu hỏi [2],số lượng học sinh bỏ qua [2],tỉ lệ bị bỏ qua[6.667]
+Số thứ tự câu hỏi [7],số lượng học sinh bỏ qua [2],tỉ lệ bị bỏ qua[6.667]
+Số thứ tự câu hỏi [9],số lượng học sinh bỏ qua [2],tỉ lệ bị bỏ qua[6.667]
+Số thứ tự câu hỏi [20],số lượng học sinh bỏ qua [2],tỉ lệ bị bỏ qua[6.667]
+Số thứ tự câu hỏi [4],số lượng học sinh bỏ qua [1],tỉ lệ bị bỏ qua[3.333]
+Số thứ tự câu hỏi [11],số lượng học sinh bỏ qua [1],tỉ lệ bị bỏ qua[3.333]
+Số thứ tự câu hỏi [14],số lượng học sinh bỏ qua [1],tỉ lệ bị bỏ qua[3.333]
+Số thứ tự câu hỏi [22],số lượng học sinh bỏ qua [1],tỉ lệ bị bỏ qua[3.333]
+Số thứ tự câu hỏi [25],số lượng học sinh bỏ qua [1],tỉ lệ bị bỏ qua[3.333]
+Số thứ tự câu hỏi [15],số lượng học sinh trả lời sai [30],tỉ lệ bị sai[100.0]
+Số thứ tự câu hỏi [16],số lượng học sinh trả lời sai [30],tỉ lệ bị sai[100.0]
+Số thứ tự câu hỏi [4],số lượng học sinh trả lời sai [29],tỉ lệ bị sai[96.67]
+Số thứ tự câu hỏi [11],số lượng học sinh trả lời sai [29],tỉ lệ bị sai[96.67]
+Số thứ tự câu hỏi [14],số lượng học sinh trả lời sai [29],tỉ lệ bị sai[96.67]
+Số thứ tự câu hỏi [22],số lượng học sinh trả lời sai [29],tỉ lệ bị sai[96.67]
+Số thứ tự câu hỏi [25],số lượng học sinh trả lời sai [29],tỉ lệ bị sai[96.67]
+Số thứ tự câu hỏi [2],số lượng học sinh trả lời sai [28],tỉ lệ bị sai[93.33]
+Số thứ tự câu hỏi [7],số lượng học sinh trả lời sai [28],tỉ lệ bị sai[93.33]
+Số thứ tự câu hỏi [9],số lượng học sinh trả lời sai [28],tỉ lệ bị sai[93.33]
+Số thứ tự câu hỏi [20],số lượng học sinh trả lời sai [28],tỉ lệ bị sai[93.33]
+Số thứ tự câu hỏi [5],số lượng học sinh trả lời sai [27],tỉ lệ bị sai[90.0]
+Số thứ tự câu hỏi [13],số lượng học sinh trả lời sai [27],tỉ lệ bị sai[90.0]
+Số thứ tự câu hỏi [17],số lượng học sinh trả lời sai [27],tỉ lệ bị sai[90.0]
+Số thứ tự câu hỏi [23],số lượng học sinh trả lời sai [27],tỉ lệ bị sai[90.0]
+Số thứ tự câu hỏi [1],số lượng học sinh trả lời sai [26],tỉ lệ bị sai[86.67]
+Số thứ tự câu hỏi [8],số lượng học sinh trả lời sai [26],tỉ lệ bị sai[86.67]
+Số thứ tự câu hỏi [10],số lượng học sinh trả lời sai [26],tỉ lệ bị sai[86.67]
+Số thứ tự câu hỏi [21],số lượng học sinh trả lời sai [26],tỉ lệ bị sai[86.67]
+Số thứ tự câu hỏi [3],số lượng học sinh trả lời sai [25],tỉ lệ bị sai[83.33]
+Số thứ tự câu hỏi [6],số lượng học sinh trả lời sai [25],tỉ lệ bị sai[83.33]
+Số thứ tự câu hỏi [18],số lượng học sinh trả lời sai [25],tỉ lệ bị sai[83.33]
+Số thứ tự câu hỏi [19],số lượng học sinh trả lời sai [25],tỉ lệ bị sai[83.33]
+Số thứ tự câu hỏi [12],số lượng học sinh trả lời sai [24],tỉ lệ bị sai[80.0]
+Số thứ tự câu hỏi [24],số lượng học sinh trả lời sai [22],tỉ lệ bị sai[73.33]
+============Chấm thi============
+Chọn lớp để chấm điểm: class2
+Mở thành công file class2
+*** Phân tích ***
+Số lượng học sinh đạt điểm cao là: 1
+Điểm trung bình là: 5.7e+01
+Điểm cao nhất là: 87
+Điểm thấp nhất là: 32
+Chênh lệch điểm là: 55
+Điểm có giá trị trung vị là: 5.7e+01
+Số thứ tự câu hỏi [24],số lượng học sinh bỏ qua [8],tỉ lệ bị bỏ qua[26.67]
+Số thứ tự câu hỏi [15],số lượng học sinh trả lời sai [30],tỉ lệ bị sai [100.0%]
+Số thứ tự câu hỏi [16],số lượng học sinh trả lời sai [30],tỉ lệ bị sai [100.0%]
+============Chấm thi============
+Chọn lớp để chấm điểm: class1
+Mở thành công file class1
+*** Phân tích ***
+Dữ liệu đáp án không hợp lệ : Không chứa đầy đủ 25 kết quả
+['N00000003', '', 'C', 'B', '', 'A', 'D', 'A', '', 'B', 'A', '', 'C', 'C', 'B', 'A', 'D', 'B', 'B', 'C', 'D', '', 'B', 'A', 'B']
+Dữ liệu đáp án không hợp lệ : Không chứa đầy đủ 25 kết quả
+['N00000022', 'D', 'C', 'B', 'B', 'A', 'D', 'A', 'D', 'B', 'A', '', 'C', 'C', 'B', 'A', 'D', 'B', 'B', 'C', 'D', 'D', '', 'A', 'B']
+Dữ liệu đáp án không hợp lệ : Không chứa đầy đủ 25 kết quả
+['N00000026', 'D', 'C', 'B', 'B', 'A', 'D', 'A', 'D', 'B', 'A', 'B', 'B', '', 'B', 'A', 'D', 'B', '', 'C', 'D', 'D', 'B', 'A', 'B']
+Số lượng học sinh đạt điểm cao là: 24
+Điểm trung bình là: 8.9e+01
+Điểm cao nhất là: 96
+Điểm thấp nhất là: 58
+Chênh lệch điểm là: 38
+Điểm có giá trị trung vị là: 8.9e+01
+Số thứ tự câu hỏi [22],số lượng học sinh bỏ qua [6],tỉ lệ bị bỏ qua[22.22]
+Số thứ tự câu hỏi [23],số lượng học sinh bỏ qua [6],tỉ lệ bị bỏ qua[22.22]
+Số thứ tự câu hỏi [7],số lượng học sinh trả lời sai [27],tỉ lệ bị sai [100.0%]
+Số thứ tự câu hỏi [9],số lượng học sinh trả lời sai [27],tỉ lệ bị sai [100.0%]
+Số thứ tự câu hỏi [18],số lượng học sinh trả lời sai [27],tỉ lệ bị sai [100.0%]
+Số thứ tự câu hỏi [21],số lượng học sinh trả lời sai [27],tỉ lệ bị sai [100.0%]
+============Chấm thi============
+Chọn lớp để chấm điểm: class1
+Mở thành công file class1
+*** Phân tích ***
+Dữ liệu đáp án không hợp lệ : Không chứa đầy đủ 25 kết quả
+['N00000003', '', 'C', 'B', '', 'A', 'D', 'A', '', 'B', 'A', '', 'C', 'C', 'B', 'A', 'D', 'B', 'B', 'C', 'D', '', 'B', 'A', 'B']
+Dữ liệu đáp án không hợp lệ : Không chứa đầy đủ 25 kết quả
+['N00000022', 'D', 'C', 'B', 'B', 'A', 'D', 'A', 'D', 'B', 'A', '', 'C', 'C', 'B', 'A', 'D', 'B', 'B', 'C', 'D', 'D', '', 'A', 'B']
+Dữ liệu đáp án không hợp lệ : Không chứa đầy đủ 25 kết quả
+['N00000026', 'D', 'C', 'B', 'B', 'A', 'D', 'A', 'D', 'B', 'A', 'B', 'B', '', 'B', 'A', 'D', 'B', '', 'C', 'D', 'D', 'B', 'A', 'B']
+Số lượng học sinh đạt điểm cao là: 24
+Điểm trung bình là: 8.9e+01
+Điểm cao nhất là: 96
+Điểm thấp nhất là: 58
+Chênh lệch điểm là: 38
+Điểm có giá trị trung vị là: 8.9e+01
+============Chấm thi============
+Chọn lớp để chấm điểm: class1
+Mở thành công file class1
+*** Phân tích ***
+Dữ liệu đáp án không hợp lệ : Không chứa đầy đủ 25 kết quả
+['N00000003', '', 'C', 'B', '', 'A', 'D', 'A', '', 'B', 'A', '', 'C', 'C', 'B', 'A', 'D', 'B', 'B', 'C', 'D', '', 'B', 'A', 'B']
+Dữ liệu đáp án không hợp lệ : Không chứa đầy đủ 25 kết quả
+['N00000022', 'D', 'C', 'B', 'B', 'A', 'D', 'A', 'D', 'B', 'A', '', 'C', 'C', 'B', 'A', 'D', 'B', 'B', 'C', 'D', 'D', '', 'A', 'B']
+Dữ liệu đáp án không hợp lệ : Không chứa đầy đủ 25 kết quả
+['N00000026', 'D', 'C', 'B', 'B', 'A', 'D', 'A', 'D', 'B', 'A', 'B', 'B', '', 'B', 'A', 'D', 'B', '', 'C', 'D', 'D', 'B', 'A', 'B']
+Số lượng học sinh đạt điểm cao là: 24
+Điểm trung bình là: 8.9e+01
+Điểm cao nhất là: 96
+Điểm thấp nhất là: 58
+Chênh lệch điểm là: 38
+Điểm có giá trị trung vị là: 8.9e+01
+Số thứ tự câu hỏi [22],số lượng học sinh bỏ qua [6],tỉ lệ bị bỏ qua[22.22]
+Số thứ tự câu hỏi [23],số lượng học sinh bỏ qua [6],tỉ lệ bị bỏ qua[22.22]
+Số thứ tự câu hỏi [7],số lượng học sinh trả lời sai [27],tỉ lệ bị sai [100.0%]
+Số thứ tự câu hỏi [9],số lượng học sinh trả lời sai [27],tỉ lệ bị sai [100.0%]
+Số thứ tự câu hỏi [18],số lượng học sinh trả lời sai [27],tỉ lệ bị sai [100.0%]
+Số thứ tự câu hỏi [21],số lượng học sinh trả lời sai [27],tỉ lệ bị sai [100.0%]
+============Chấm thi============
+Chọn lớp để chấm điểm: class1
+Mở thành công file class1
+*** Phân tích ***
+Dữ liệu đáp án không hợp lệ : Không chứa đầy đủ 25 kết quả
+['N00000003', '', 'C', 'B', '', 'A', 'D', 'A', '', 'B', 'A', '', 'C', 'C', 'B', 'A', 'D', 'B', 'B', 'C', 'D', '', 'B', 'A', 'B']
+Dữ liệu đáp án không hợp lệ : Không chứa đầy đủ 25 kết quả
+['N00000022', 'D', 'C', 'B', 'B', 'A', 'D', 'A', 'D', 'B', 'A', '', 'C', 'C', 'B', 'A', 'D', 'B', 'B', 'C', 'D', 'D', '', 'A', 'B']
+Dữ liệu đáp án không hợp lệ : Không chứa đầy đủ 25 kết quả
+['N00000026', 'D', 'C', 'B', 'B', 'A', 'D', 'A', 'D', 'B', 'A', 'B', 'B', '', 'B', 'A', 'D', 'B', '', 'C', 'D', 'D', 'B', 'A', 'B']
+Số lượng học sinh đạt điểm cao là: 24
+Điểm trung bình là: 88.81
+Điểm cao nhất là: 96
+Điểm thấp nhất là: 58
+Chênh lệch điểm là: 38
+Điểm có giá trị trung vị là: 88.81
+Số thứ tự câu hỏi [22],số lượng học sinh bỏ qua [6],tỉ lệ bị bỏ qua[22.22]
+Số thứ tự câu hỏi [23],số lượng học sinh bỏ qua [6],tỉ lệ bị bỏ qua[22.22]
+Số thứ tự câu hỏi [7],số lượng học sinh trả lời sai [27],tỉ lệ bị sai [100.0%]
+Số thứ tự câu hỏi [9],số lượng học sinh trả lời sai [27],tỉ lệ bị sai [100.0%]
+Số thứ tự câu hỏi [18],số lượng học sinh trả lời sai [27],tỉ lệ bị sai [100.0%]
+Số thứ tự câu hỏi [21],số lượng học sinh trả lời sai [27],tỉ lệ bị sai [100.0%]
+Danh============Thống kê============
+*** Danh sách lớp đã được chấm ***
+============Thống kê============
+*** Danh sách lớp đã được chấm ***
+Chọn lớp để phân tích: class1
+*** Thống kê ***
+Số lượng học sinh đạt điểm cao là: 24
+Điểm trung bình là: 88.81
+Điểm cao nhất là: 96
+Điểm thấp nhất là: 58
+Chênh lệch điểm là: 38
+Điểm có giá trị trung vị là: 88.81
+Số thứ tự câu hỏi [22],số lượng học sinh bỏ qua [6],tỉ lệ bị bỏ qua[22.22]
+Số thứ tự câu hỏi [23],số lượng học sinh bỏ qua [6],tỉ lệ bị bỏ qua[22.22]
+Số thứ tự câu hỏi [7],số lượng học sinh trả lời sai [27],tỉ lệ bị sai [100.0%]
+Số thứ tự câu hỏi [9],số lượng học sinh trả lời sai [27],tỉ lệ bị sai [100.0%]
+Số thứ tự câu hỏi [18],số lượng học sinh trả lời sai [27],tỉ lệ bị sai [100.0%]
+Số thứ tự câu hỏi [21],số lượng học sinh trả lời sai [27],tỉ lệ bị sai [100.0%]
+============Thống kê============
+*** Danh sách lớp đã được chấm ***
+Chọn lớp để phân tích: class2
+*** Thống kê ***
+Số lượng học sinh đạt điểm cao là: 1
+Điểm trung bình là: 56.83
+Điểm cao nhất là: 87
+Điểm thấp nhất là: 32
+Chênh lệch điểm là: 55
+Điểm có giá trị trung vị là: 56.83
+Số thứ tự câu hỏi [24],số lượng học sinh bỏ qua [8],tỉ lệ bị bỏ qua[26.67]
+Số thứ tự câu hỏi [15],số lượng học sinh trả lời sai [30],tỉ lệ bị sai [100.0%]
+Số thứ tự câu hỏi [16],số lượng học sinh trả lời sai [30],tỉ lệ bị sai [100.0%]
