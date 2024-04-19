@@ -15,6 +15,8 @@ def view():
 				case 2:
 					view_thong_ke()
 				case 3:
+					view_cap_nhat_dap_an()
+				case 4:
 					print("Bạn đã thoát hệ thống")
 					break
 				case _:
@@ -28,8 +30,24 @@ def menu():
 	print("==========Menu===========")
 	print("1.Chấm điểm thi")
 	print("2.Thống kê điểm số")
-	print("3.Thoát")
+	print("3.Cập nhật đáp án")
+	print("4.Thoát")
 
+
+def view_cap_nhat_dap_an():
+	while True:
+		try:
+			log("=========== Update answer  =============")
+			log('DS đáp án:' + ','.join(constant.ANSWERS))
+			ds_dap_an = input("Xin mời nhập ds đáp án (cách nhau bằng dấu phẩy): ")
+			ds_dap_an = ds_dap_an.split(',')
+			data.write(constant.FILE_ANSWER_DIR, ds_dap_an)
+			constant.ANSWERS = ds_dap_an
+			log("Cập nhật đáp án thành công")
+			return
+		except Exception as e:
+			log(f"Lỗi trong quá trình cập nhật đáp án: {e}")
+			log("Xin mời nhập lại")
 
 
 def view_cham_thi():
@@ -138,6 +156,7 @@ def thong_ke(lop_cham_diem):
 	phan_tich_diem(ds_tong_diem)
 	tinh_ty_le_sai_bo_qua(ds_dap_an, len(ds_kq_lop))
 
+
 def phan_tich_diem(ds_tong_diem):
 	ds_kq = sorted(ds_tong_diem)
 	so_luong_diem_cao = sum([1 for i in ds_kq if int(i) > 80])
@@ -153,6 +172,7 @@ def phan_tich_diem(ds_tong_diem):
 	log(f"Điểm thấp nhất là: {min_kq}")
 	log(f"Chênh lệch điểm là: {range_kq}")
 	log(f"Điểm có giá trị trung vị là: {median_kq:.{4}}")
+
 
 def tinh_ty_le_sai_bo_qua(ds_dap_an: list, so_lg_bai_lam):
 	tong_so_dap_an_bo_trong = 0
@@ -189,6 +209,7 @@ def tinh_ty_le_sai_bo_qua(ds_dap_an: list, so_lg_bai_lam):
 		else:
 			break
 
+
 def tinh_tong_diem(ds_kq_bai_lam: list):
 	tong_diem = 0
 	ket_qua = []
@@ -204,6 +225,7 @@ def tinh_tong_diem(ds_kq_bai_lam: list):
 			tong_diem -= 1
 	return tong_diem, ket_qua
 
+
 def hop_le_ket_qua(ds_kq: list) -> bool:
 	if len(ds_kq) != 25:
 		log("Dữ liệu đáp án không hợp lệ : Không chứa đầy đủ 25 kết quả")
@@ -213,6 +235,7 @@ def hop_le_ket_qua(ds_kq: list) -> bool:
 			log("Dữ liệu đáp án không hợp lệ : Kết quả không đúng định dạng")
 			return False
 	return True
+
 
 def hop_le_ma_hs(ma_hoc_sinh: list) -> bool:
 	if len(ma_hoc_sinh) != 9:
@@ -232,6 +255,7 @@ def hop_le_ma_hs(ma_hoc_sinh: list) -> bool:
 
 	return True
 
+
 def ds_file_thu_muc(directory):
 	if not os.path.isdir(directory):
 		print("Thư mục không tồn tại.")
@@ -246,12 +270,18 @@ def ds_file_thu_muc(directory):
 	for file in files:
 		print(file.replace(constant.TXT, ''))
 
+
 def log(message):
 	print(message)
 	data.write(str(message) + "\n", constant.FILE_REPORT_DIR)
 
 
 def main():
+	try:
+		constant.ANSWERS = data.read(constant.FILE_ANSWER_DIR)
+	except FileNotFoundError:
+		log("Lỗi không tìm thấy file đáp án")
+		return
 	view()
 
 
