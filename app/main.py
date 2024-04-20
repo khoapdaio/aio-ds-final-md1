@@ -4,6 +4,7 @@ import statistics
 from app import constant, data
 
 
+# hàm hiển thị các lựa chọn, nhận lựa chọn của người dùng để điều hướng đến view người dùng chọn
 def view():
 	while True:
 		try:
@@ -26,6 +27,7 @@ def view():
 			print("Lựa chọn phải là số nguyên, vui lòng nhập lại!")
 
 
+# hiện thị menu các lựa chọn
 def menu():
 	print("==========Menu===========")
 	print("1.Chấm điểm thi")
@@ -34,6 +36,7 @@ def menu():
 	print("4.Thoát")
 
 
+# hiển thị view cập nhật đáp án, nhận các đáp án cần cập nhật của người dùng
 def view_cap_nhat_dap_an():
 	while True:
 		try:
@@ -50,6 +53,7 @@ def view_cap_nhat_dap_an():
 			log("Xin mời nhập lại")
 
 
+# hiển thị view chấm điểm bài thi, tiếp nhận và điều hướng đến chức năng mà người dùng chọn
 def view_cham_thi():
 	while True:
 		try:
@@ -73,6 +77,7 @@ def view_cham_thi():
 			print("Lựa chọn phải là số nguyên, vui lòng nhập lại!")
 
 
+# Hiển thị menu chấm thi
 def menu_cham_thi():
 	print("==========Menu Chấm thi===========")
 	print("1.Danh sách bài thi chưa chấm")
@@ -81,6 +86,7 @@ def menu_cham_thi():
 	print("4.Thoát")
 
 
+# Hiển thị view chọn lớp, tiếp nhận và thực hiện việc chọn lớp để chấm điểm và thống kê
 def view_chon_lop():
 	while True:
 		try:
@@ -101,12 +107,13 @@ def view_chon_lop():
 			print("Không tìm thấy file yêu cầu! vui lòng nhập lại!")
 
 
-def cham_thi(ds_kq_bai_thi: list, lop_cham_diem: str) -> bool:
+# Chấm điểm cái bài thi của một lớp
+def cham_thi( ds_kq_bai_thi: list, lop_cham_diem: str ) -> bool:
 	try:
 		log("*** Phân tích ***")
 		ma_hoc_sinh = None
 		kq_lop_dir = constant.GRADED_DIR + constant.SLASH + lop_cham_diem + "_" + constant.GRADED + constant.TXT
-		data.clearData(kq_lop_dir)
+		data.clear_data(kq_lop_dir)
 		for bai_thi in ds_kq_bai_thi:
 			ma_hoc_sinh = bai_thi[0]
 			ds_kq_bai_lam = bai_thi[1:]
@@ -127,6 +134,7 @@ def cham_thi(ds_kq_bai_thi: list, lop_cham_diem: str) -> bool:
 		return False
 
 
+# Hiển thị view thống kê, tiếp nhận và thực hiện hành động chọn lớp để thống kê
 def view_thong_ke():
 	while True:
 		try:
@@ -143,7 +151,8 @@ def view_thong_ke():
 			print("Không tìm thấy file yêu cầu! vui lòng nhập lại!")
 
 
-def thong_ke(lop_cham_diem):
+# thống kê điểm thi của lớp đã chấm điểm
+def thong_ke( lop_cham_diem ):
 	log("*** Thống kê ***")
 	kq_lop_dir = constant.GRADED_DIR + constant.SLASH + lop_cham_diem + "_" + constant.GRADED + constant.TXT
 	ds_kq_lop = data.read(kq_lop_dir)
@@ -157,7 +166,8 @@ def thong_ke(lop_cham_diem):
 	tinh_ty_le_sai_bo_qua(ds_dap_an, len(ds_kq_lop))
 
 
-def phan_tich_diem(ds_tong_diem):
+# phân thích điểm sau khi đã chấm
+def phan_tich_diem( ds_tong_diem ):
 	ds_kq = sorted(ds_tong_diem)
 	so_luong_diem_cao = sum([1 for i in ds_kq if int(i) > 80])
 	min_kq = int(ds_kq[0])
@@ -174,7 +184,8 @@ def phan_tich_diem(ds_tong_diem):
 	log(f"Điểm có giá trị trung vị là: {median_kq:.{4}}")
 
 
-def tinh_ty_le_sai_bo_qua(ds_dap_an: list, so_lg_bai_lam):
+# Tính toán tỷ lệ của các câu có đáp án sai hay bỏ qua
+def tinh_ty_le_sai_bo_qua( ds_dap_an: list, so_lg_bai_lam ):
 	tong_so_dap_an_bo_trong = 0
 	tong_so_dap_an_sai = 0
 
@@ -189,8 +200,8 @@ def tinh_ty_le_sai_bo_qua(ds_dap_an: list, so_lg_bai_lam):
 				ds_so_lg_dap_an_sai[i][1] += 1
 				tong_so_dap_an_sai += 1
 
-	ds_so_lg_dap_an_sai = sorted(ds_so_lg_dap_an_sai, key=lambda x: x[1], reverse=True)
-	ds_so_lg_dap_an_bo_qua = sorted(ds_so_lg_dap_an_bo_qua, key=lambda x: x[1], reverse=True)
+	ds_so_lg_dap_an_sai = sorted(ds_so_lg_dap_an_sai, key = lambda x: x[1], reverse = True)
+	ds_so_lg_dap_an_bo_qua = sorted(ds_so_lg_dap_an_bo_qua, key = lambda x: x[1], reverse = True)
 	for element in ds_so_lg_dap_an_bo_qua:
 		max = ds_so_lg_dap_an_bo_qua[0][1]
 		if element[1] != 0 and element[1] == max:
@@ -210,7 +221,8 @@ def tinh_ty_le_sai_bo_qua(ds_dap_an: list, so_lg_bai_lam):
 			break
 
 
-def tinh_tong_diem(ds_kq_bai_lam: list):
+# Tính tổng điểm của bài thi
+def tinh_tong_diem( ds_kq_bai_lam: list ):
 	tong_diem = 0
 	ket_qua = []
 	for i in range(25):
@@ -226,7 +238,8 @@ def tinh_tong_diem(ds_kq_bai_lam: list):
 	return tong_diem, ket_qua
 
 
-def hop_le_ket_qua(ds_kq: list) -> bool:
+# kiểm tra kết qua có hợp lệ hay không
+def hop_le_ket_qua( ds_kq: list ) -> bool:
 	if len(ds_kq) != 25:
 		log("Dữ liệu đáp án không hợp lệ : Không chứa đầy đủ 25 kết quả")
 		return False
@@ -237,7 +250,8 @@ def hop_le_ket_qua(ds_kq: list) -> bool:
 	return True
 
 
-def hop_le_ma_hs(ma_hoc_sinh: list) -> bool:
+# Kiểm tra mã học sinh có hợp lệ hay không
+def hop_le_ma_hs( ma_hoc_sinh: list ) -> bool:
 	if len(ma_hoc_sinh) != 9:
 		log("Dữ liệu không hợp lệ : Mã học sinh phải có 9 ký tự")
 		return False
@@ -256,7 +270,8 @@ def hop_le_ma_hs(ma_hoc_sinh: list) -> bool:
 	return True
 
 
-def ds_file_thu_muc(directory):
+# hiện thị danh sách các file dựa trên đường dẫn folder truyền vào
+def ds_file_thu_muc( directory ):
 	if not os.path.isdir(directory):
 		print("Thư mục không tồn tại.")
 		return
@@ -271,14 +286,16 @@ def ds_file_thu_muc(directory):
 		print(file.replace(constant.TXT, ''))
 
 
-def log(message):
+# thực hiện ghi dữ liệu vào report file
+def log( message ):
 	print(message)
 	data.write(str(message) + "\n", constant.FILE_REPORT_DIR)
 
 
+# hàm chính để chạy toàn bộ app, thực hiện dọc file answer đã lưu vào file
 def main():
 	try:
-		constant.ANSWERS = data.read(constant.FILE_ANSWER_DIR)
+		constant.ANSWERS = data.read(constant.FILE_ANSWER_DIR)[0]
 	except FileNotFoundError:
 		log("Lỗi không tìm thấy file đáp án")
 		return

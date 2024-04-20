@@ -4,7 +4,7 @@ import random
 initial_list = ['N00000045', 'D', 'C', 'B', 'B', 'A', 'D', 'A', 'D', 'B', 'A', 'B', 'B', 'C', 'C', 'B', 'A', 'D', 'B',
                 'B', 'C', 'D', 'D', 'B', 'A', 'B']
 
-
+#hàm lấy đáp án từ file
 def get_answers():
 	try:
 		with open('../data/answer/answer.txt', mode='r') as file:

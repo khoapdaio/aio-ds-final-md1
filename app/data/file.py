@@ -1,6 +1,6 @@
 import os
 
-
+#Ghi dữ liệu vô file
 def write(data, path, mode='a', encoding='utf-8'):
 	try:
 
@@ -12,7 +12,7 @@ def write(data, path, mode='a', encoding='utf-8'):
 		print(f"Có lỗi xảy ra: {e}")
 		return False
 
-
+#đọc dữ liệu vô file
 def read(path, mode='r'):
 	try:
 		with open(path, mode) as file:
@@ -22,8 +22,8 @@ def read(path, mode='r'):
 		print(f"Có lỗi xảy ra khi đọc data: {e}")
 		return None
 
-
-def clearData(path):
+#xóa dữ liệu trong file
+def clear_data( path ):
 	try:
 		# Open the data in write mode, which clears its contents
 		with open(path, "w") as file:
